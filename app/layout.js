@@ -15,3 +15,8 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+
+
+// Stock-management
+// hA3PWeKSMHLhb7rU
